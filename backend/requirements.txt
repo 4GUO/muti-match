@@ -1,0 +1,10 @@
+PyQt5
+datetime
+pandas
+numpy
+joblib
+fuzzywuzzy
+scikit-learn
+jieba
+python-Levenshtein
+pyarrow
